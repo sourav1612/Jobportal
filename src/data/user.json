@@ -1,0 +1,16 @@
+{
+    "name": "chandramohan",
+    "location": "moon",
+    "skills": [
+        "Reactjs",
+        "java"
+    ],
+    "preferences": {
+        "location": [
+            "moon",
+            "earth"
+        ],
+        "salary": 123,
+        "job_type": "Full time"
+    }
+}
